@@ -1,0 +1,7 @@
+name: OxyClass
+version: '${project.version}'
+main: com.github.oxydrugplugs.OxyClass
+api-version: 1.17
+load: STARTUP
+softdepend: [PlaceholderAPI]
+authors: [Wazupbutrcup]
